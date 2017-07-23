@@ -1,6 +1,5 @@
 body {
-	background: #4099FF;
-
+  background: #4099FF;
 }
 
 
@@ -9,9 +8,10 @@ body {
   padding:10px;
   color:white;
   position:relative;
+  text-align: center;
+  margin-top:200px;
+
 }
-
-
 
 
 button{
