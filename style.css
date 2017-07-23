@@ -1,0 +1,31 @@
+body {
+	background: #4099FF;
+
+}
+
+
+body {
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  padding:10px;
+  color:white;
+  position:relative;
+}
+
+
+
+
+button{
+    position:relative;
+    background-color:transparent;
+    color:white;
+    font-family: 'Andika';font-size: 15px;
+    width:auto;
+    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+    padding:10px;
+    border-radius:10px;
+  
+}
+
+
+
+
