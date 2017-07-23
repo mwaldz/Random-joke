@@ -6,7 +6,7 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
   padding:10px;
-  color:white;
+  color:#fff;
   position:relative;
   text-align: center;
   margin-top:200px;
@@ -15,14 +15,14 @@ body {
 
 
 button{
-    position:relative;
-    background-color:transparent;
-    color:white;
-    font-family: 'Andika';font-size: 15px;
-    width:auto;
-    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
-    padding:10px;
-    border-radius:10px;
+  position:relative;
+  background-color:transparent;
+  color:#fff;
+  font-family: 'Andika';font-size: 15px;
+  width:auto;
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  padding:10px;
+  border-radius:10px;
   
 }
 
